@@ -1,5 +1,7 @@
 <div align="center">
 
+**Language / 语言：** English · [简体中文](README.zh.md)
+
 # GROWTH LOOP
 ### Stop optimizing the wrong problems.
 
@@ -182,8 +184,7 @@ growth-loop/
 │       ├── weekly-review.md
 │       └── decision-journal.md
 ├── tests/evaluation-cases.md
-├── scripts/validate.py
-└── .github/workflows/validate.yml
+└── CONTRIBUTING.md
 ~~~
 
 ## Design and limitations
