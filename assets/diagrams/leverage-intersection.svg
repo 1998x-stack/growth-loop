@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">Growth Loop — 能力优势、外部价值和长期投入意愿的交集</title>
+  <desc id="desc">三圆交集示意：能力优势、外部价值与长期投入意愿共同形成值得探索的高杠杆成长方向。这是一种决策启发式，而非精确测量。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0B1223"/><stop offset="1" stop-color="#192C43"/></linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#5DE3C1" stop-opacity=".23"/><stop offset="1" stop-color="#5DE3C1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="620" rx="24" fill="url(#bg)"/>
+  <circle cx="500" cy="331" r="305" fill="url(#halo)"/>
+  <g font-family="Inter, 'Noto Sans CJK SC', 'Microsoft YaHei', Arial, sans-serif">
+    <text x="52" y="64" font-size="18" letter-spacing="3" font-weight="700" fill="#64E8D0">GROWTH LOOP / LEVERAGE INTERSECTION</text>
+    <text x="52" y="100" font-size="18" fill="#B6C6DC">选成长方向，不只看天赋：看能力证据、外部需求与长期可持续性。</text>
+    <circle cx="395" cy="282" r="180" fill="#5478F4" fill-opacity=".28" stroke="#93A9FF" stroke-width="2.5"/>
+    <circle cx="605" cy="282" r="180" fill="#27C99C" fill-opacity=".25" stroke="#71E9C9" stroke-width="2.5"/>
+    <circle cx="500" cy="392" r="180" fill="#FDB85B" fill-opacity=".22" stroke="#FFD38D" stroke-width="2.5"/>
+    <ellipse cx="500" cy="311" rx="100" ry="75" fill="#ACFFE8" fill-opacity=".16"/>
+    <text x="335" y="232" text-anchor="middle" font-size="29" fill="#EAF0FF" font-weight="700">能力优势</text>
+    <text x="335" y="260" text-anchor="middle" font-size="15" fill="#B3C6FF" letter-spacing="2">STRENGTH</text>
+    <text x="665" y="232" text-anchor="middle" font-size="29" fill="#E8FFF7" font-weight="700">外部价值</text>
+    <text x="665" y="260" text-anchor="middle" font-size="15" fill="#B5F2DF" letter-spacing="2">VALUE</text>
+    <text x="500" y="486" text-anchor="middle" font-size="29" fill="#FFF2DE" font-weight="700">长期投入意愿</text>
+    <text x="500" y="514" text-anchor="middle" font-size="15" fill="#FCE2BA" letter-spacing="2">SUSTAINABILITY</text>
+    <rect x="424" y="286" width="152" height="53" rx="15" fill="#0F3C4B" stroke="#74F0DA" stroke-width="1.6"/>
+    <text x="500" y="320" text-anchor="middle" font-size="23" fill="#E4FFF8" font-weight="800">高杠杆方向</text>
+    <text x="52" y="579" font-size="15" fill="#A5B7CD">A strategic heuristic, not a psychometric score. Validate assumptions through real-world experiments.</text>
+  </g>
+</svg>
