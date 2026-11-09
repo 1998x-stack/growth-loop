@@ -126,11 +126,11 @@ https://github.com/1998x-stack/growth-loop
 
 | Agent | 用户级目录 | 项目级目录 |
 |:--|:--|:--|
-| **OpenAI Codex** | \`~/.agents/skills/growth-loop/\` | \`.agents/skills/growth-loop/\` |
-| **Claude Code** | \`~/.claude/skills/growth-loop/\` | \`.claude/skills/growth-loop/\` |
+| **OpenAI Codex** | `~/.agents/skills/growth-loop/` | `.agents/skills/growth-loop/` |
+| **Claude Code** | `~/.claude/skills/growth-loop/` | `.claude/skills/growth-loop/` |
 | **其他兼容 Agent** | 以官方文档为准 | 以官方文档为准 |
 
-将仓库中的 \`SKILL.md\`、\`references/\` 和 \`assets/templates/\` 保留原目录结构复制到对应位置。安装位置可能随 Agent 版本和配置变化，需以宿主环境实际支持情况为准。
+将仓库中的 `SKILL.md`、`references/` 和 `assets/templates/` 保留原目录结构复制到对应位置。安装位置可能随 Agent 版本和配置变化，需以宿主环境实际支持情况为准。
 
 参考：[Agent Skills 规范](https://agentskills.io/specification) · [OpenAI Codex Skills](https://learn.chatgpt.com/docs/build-skills) · [Claude Code Skills](https://code.claude.com/docs/en/skills)。
 
@@ -171,11 +171,11 @@ https://github.com/1998x-stack/growth-loop
 
 | 模式 | 适合场景 | 输出 |
 |:--|:--|:--|
-| \`diagnose\` | 一直很忙、反复失败、能力停滞 | 成长瓶颈与验证方案 |
-| \`prioritize\` | 在多个能力、项目或职业方向间选择 | 优势与价值比较、主攻方向 |
-| \`plan\` | 想制定 14 天、30 天或 90 天计划 | 真实任务、基线、里程碑与反馈机制 |
-| \`review\` | 周复盘、月复盘 | 三类成长证据与下一轮决定 |
-| \`reframe\` | 执行力很强，但结果价值有限 | 重新定义问题与机会成本 |
+| `diagnose` | 一直很忙、反复失败、能力停滞 | 成长瓶颈与验证方案 |
+| `prioritize` | 在多个能力、项目或职业方向间选择 | 优势与价值比较、主攻方向 |
+| `plan` | 想制定 14 天、30 天或 90 天计划 | 真实任务、基线、里程碑与反馈机制 |
+| `review` | 周复盘、月复盘 | 三类成长证据与下一轮决定 |
+| `reframe` | 执行力很强，但结果价值有限 | 重新定义问题与机会成本 |
 
 不必每次运行完整流程。Agent 应根据需求调用必要部分，避免为了完整性而制造不必要的复杂性。
 
@@ -326,7 +326,7 @@ Growth Loop 是一套**受研究启发（evidence-informed）的实践框架**�
 
 ## 09 / 项目结构
 
-本仓库以根目录的 \`SKILL.md\` 为唯一核心 Skill 入口，引用模块化的专业参考与模板；三张 SVG 用于 README 文档展示。
+本仓库以根目录的 `SKILL.md` 为唯一核心 Skill 入口，引用模块化的专业参考与模板；三张 SVG 用于 README 文档展示。
 
 ~~~text
 growth-loop/
